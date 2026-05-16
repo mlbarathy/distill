@@ -23,7 +23,7 @@ All processing happens locally. No data leaves your machine when using Ollama or
 ---
 
 ## Architecture
-
+### Changes made by Bineetha
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                          Browser (localhost:5173)                   │
