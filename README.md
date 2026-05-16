@@ -5,7 +5,7 @@
 
 ---
 
-## What It Does
+## What It Does below
 
 Distill turns any Teams / Zoom / Google Meet transcript into a complete learning assessment in minutes:
 
